@@ -1,5 +1,3 @@
-import { motion } from 'framer-motion'
-import { useModal } from 'react-modal-hook'
 import React, { useState } from 'react'
 import ToggleButton from './ToggleButton'
 import SideNav from '../../SideNav'
