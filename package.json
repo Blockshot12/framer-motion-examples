@@ -1,0 +1,37 @@
+{
+  "name": "basket-animation",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "@emotion/core": "10.0.35",
+    "@emotion/styled": "10.0.27",
+    "core-js": "3.6.5",
+    "emotion-normalize": "10.1.0",
+    "emotion-theming": "10.0.27",
+    "framer-motion": "2.7.5",
+    "next": "9.5.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-modal-hook": "3.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.11.6",
+    "@babel/plugin-syntax-jsx": "^7.10.4",
+    "@labd/eslint-config": "^0.3.1",
+    "@types/node": "14.10.2",
+    "@types/react": "16.9.49",
+    "@types/react-dom": "^16.9.4",
+    "babel-plugin-emotion": "10.0.33",
+    "babel-plugin-inline-react-svg": "1.1.1",
+    "eslint": "7.9.0",
+    "eslint-plugin-emotion": "10.0.27",
+    "prettier": "2.1.2",
+    "typescript": "3.9.6"
+  },
+  "license": "ISC"
+}

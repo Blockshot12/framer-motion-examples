@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "*.html": "html"
+  },
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.lintTask.enable": true,
+  "eslint.packageManager": "yarn",
+  "eslint.format.enable": true,
+  "prettier.packageManager": "yarn",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.words": ["Formik"],
+  "jest.pathToJest": "NODE_ENV=test node_modules/.bin/jest",
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#fff",
+    "titleBar.inactiveForeground": "#373142",
+    "titleBar.activeBackground": "#524763",
+    "titleBar.inactiveBackground": "#B2AFC5"
+  }
+}
